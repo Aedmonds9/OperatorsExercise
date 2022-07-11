@@ -1,0 +1,14 @@
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.exe
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.deps.json
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.runtimeconfig.json
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.runtimeconfig.dev.json
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.dll
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\bin\Debug\netcoreapp3.1\OperatorsExercise.pdb
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.csproj.AssemblyReference.cache
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.AssemblyInfo.cs
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.dll
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.pdb
+C:\Users\brode\OneDrive\Desktop\repos\OperatorsExercise\OperatorsExercise\obj\Debug\netcoreapp3.1\OperatorsExercise.genruntimeconfig.cache
